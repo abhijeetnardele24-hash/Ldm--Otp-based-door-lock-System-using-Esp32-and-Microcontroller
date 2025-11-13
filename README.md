@@ -155,10 +155,10 @@ Solenoid Lock (-) ────► 12V Adapter GND (-)
 3. It will show your **Chat ID** (already in your code)
 
 **Your Credentials (Already Configured):**
-- WiFi SSID: `hmm`
+- WiFi SSID: `use ur personal wifi name`
 - WiFi Password: `12345678`
-- Bot Token: `8221363925:AAH3nmbIyoPoeEmJdG6mJvFvMcUtY9QD4Ss`
-- Chat ID: `5203680634`
+- Bot Token: `ur bot token`
+- Chat ID: `u will get when u create the chat id`
 
 ---
 
